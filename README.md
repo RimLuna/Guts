@@ -2,4 +2,4 @@
 I like Guts, I hate life.
 
 This page says **Guts**, and the *link* goes nowhere.
-![Screenshot](./screenshot.png?raw=true "Guts")
+![Screenshot](./Screenshot.png?raw=true "Guts")
